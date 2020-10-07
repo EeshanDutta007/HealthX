@@ -30,7 +30,7 @@ Introducing **HealthX**
 <img src = "images/Signup.jpeg" height=300>
 </p>
 
-2) Once Signed in, there will be 4 options in the Bottom Navigation bar :- 
+2) Once Signed in, there will be 4 options in the Bottom Navigation bar:- 
   
   - **Symptoms** - Takes in symptoms from the user that he/she is suffering from and predict roughly the chance of having breast cancer.
   
@@ -87,4 +87,4 @@ Introducing **HealthX**
    
    Regards,
    
-   **Team Ctrl-Alt-Elite**
+   **Team - Ctrl-Alt-Elite**
