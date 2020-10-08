@@ -83,7 +83,7 @@ Introducing **HealthX**
    
    <img src = "images/Dev.jpeg" height=300>
    
-   We have made this Application with the vision of helping the community in any small way possible and just hope that the people suffering from Breast Cancer worldwide gets cured soon and lead a healthy life.
+   We have made this Application with the vision of helping the community in any small way possible and just hope that the people suffering from Breast Cancer worldwide gets cured soon and lead a healthy life. Hope this makes a difference as it matters to us if it does.
    
    Regards,
    
