@@ -79,7 +79,7 @@ Introducing **HealthX**
        <img src = "images/Lang4.jpeg" height=300>
       </p>
       
-   **Developers :-**
+   **Developers :- **
    
    <img src = "images/Dev.jpeg" height=300>
    
